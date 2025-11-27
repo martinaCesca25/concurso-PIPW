@@ -1,6 +1,6 @@
-**EJERCICIO**
-Dada una app de notas subida al repositorio, realiza las siguientes actividades:
-Ejercicio 1. crea 2 issues en el repositorio con la siguiente información:
+**EJERCICIO**  
+Dada una app de notas subida al repositorio, realiza las siguientes actividades:  
+Ejercicio 1. crea 2 issues en el repositorio con la siguiente información:  
     - Títulos:
               1. "Implementar búsqueda de notas"
               2. "Bug: La aplicación se cierra al borrar una nota"
